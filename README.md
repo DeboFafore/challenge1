@@ -71,9 +71,9 @@ h2 {
 ```
 ---
 
-## Prerequisites
+## How it looks:
 
-Other than a web brower no software installation is needed.
+![c8adef9543ceacc92eab4a4dbccf731e](https://user-images.githubusercontent.com/92896466/150401786-5b055180-ea55-452a-936c-b799b59d938f.png)
 
 ---
 
