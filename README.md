@@ -86,16 +86,15 @@ h2 {
 
 ## Deployed Link
 
-https://coleman-buffa.github.io/refactor-demo/
+
 
 ---
 
 ## Authors
 
- Coleman Buffa
+ Adebowale Fafore
 
-- [Link to Github](https://github.com/coleman-buffa)
-- [Link to LinkedIn](https://www.linkedin.com/in/coleman-buffa-0a12a5201/)
+- [Link to Github](https://https://github.com/DeboFafore)
+- [Link to LinkedIn](https://www.linkedin.com/in/adebowalefafore/)
 
-## Acknowledgements
-UC Berkeley Extension
+
